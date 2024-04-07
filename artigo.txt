@@ -1,0 +1,5 @@
+LangChain é um poderoso framework de código aberto projetado para ajudar no desenvolvimento de aplicativos alimentados por um modelo de linguagem, particularmente um modelo de linguagem grande (LLM).
+
+Ele vai além das chamadas de API padrão por ser ciente de dados e agente, permitindo conexões com várias fontes de dados para experiências mais ricas e personalizadas. Ele também pode capacitar um modelo de linguagem para interagir dinamicamente com seu ambiente.
+
+O LangChain agiliza o desenvolvimento de diversas aplicações, como chatbots, Generative Question-Answering (GQA) e sumarização. Ao “encadear” componentes de vários módulos, permite a criação de aplicativos exclusivos construídos em torno de um LLM. Acesse o site oficial: LangChain.
